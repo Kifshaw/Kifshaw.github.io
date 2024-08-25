@@ -1,0 +1,266 @@
+{
+  "vaultName": "World's Without Number - Skyler",
+  "lastExport": 1724611514865,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Main Characters/Boris Martikov.md",
+    "Main Characters/Cross Payne.md",
+    "Main Characters/Fo'Rong.md",
+    "Main Characters/Frank 'Big' Poppa.md",
+    "NPCs/Graham.md",
+    "NPCs/Max.md",
+    "NPCs/Ono Family.md",
+    "Sessions/Session 6-17.md",
+    "Sessions/Session 7-1.md",
+    "Sessions/Session 7-17.md",
+    "Sessions/Session 8-12.md",
+    "Sessions/Session 8-28.md",
+    "Collective Industries.md",
+    "Johnny.md",
+    "Lesso.md",
+    "Main Notes.md",
+    "Puzzle Sword.md",
+    "Remy Lafoe.md",
+    "Saltberry.md",
+    "Untitled.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "Main Characters/Boris Martikov.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 49,
+      "exportedPath": "Main Characters/Boris Martikov.html",
+      "dependencies": []
+    },
+    "Main Characters/Cross Payne.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 49,
+      "exportedPath": "Main Characters/Cross Payne.html",
+      "dependencies": []
+    },
+    "Main Characters/Fo'Rong.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 49,
+      "exportedPath": "Main Characters/Fo'Rong.html",
+      "dependencies": []
+    },
+    "Main Characters/Frank 'Big' Poppa.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 49,
+      "exportedPath": "Main Characters/Frank 'Big' Poppa.html",
+      "dependencies": []
+    },
+    "NPCs/Graham.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 256,
+      "exportedPath": "NPCs/Graham.html",
+      "dependencies": []
+    },
+    "NPCs/Max.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 41,
+      "exportedPath": "NPCs/Max.html",
+      "dependencies": []
+    },
+    "NPCs/Ono Family.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 127,
+      "exportedPath": "NPCs/Ono Family.html",
+      "dependencies": []
+    },
+    "Sessions/Session 6-17.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 860,
+      "exportedPath": "Sessions/Session 6-17.html",
+      "dependencies": []
+    },
+    "Sessions/Session 7-1.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 888,
+      "exportedPath": "Sessions/Session 7-1.html",
+      "dependencies": []
+    },
+    "Sessions/Session 7-17.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 821,
+      "exportedPath": "Sessions/Session 7-17.html",
+      "dependencies": []
+    },
+    "Sessions/Session 8-12.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 1216,
+      "exportedPath": "Sessions/Session 8-12.html",
+      "dependencies": []
+    },
+    "Sessions/Session 8-28.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 0,
+      "exportedPath": "Sessions/Session 8-28.html",
+      "dependencies": []
+    },
+    "Collective Industries.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 246,
+      "exportedPath": "Collective Industries.html",
+      "dependencies": []
+    },
+    "Johnny.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 205,
+      "exportedPath": "Johnny.html",
+      "dependencies": []
+    },
+    "Lesso.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 173,
+      "exportedPath": "Lesso.html",
+      "dependencies": []
+    },
+    "Main Notes.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 71,
+      "exportedPath": "Main Notes.html",
+      "dependencies": []
+    },
+    "Puzzle Sword.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 559,
+      "exportedPath": "Puzzle Sword.html",
+      "dependencies": []
+    },
+    "Remy Lafoe.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 161,
+      "exportedPath": "Remy Lafoe.html",
+      "dependencies": []
+    },
+    "Saltberry.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 284,
+      "exportedPath": "Saltberry.html",
+      "dependencies": []
+    },
+    "Untitled.md": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 0,
+      "exportedPath": "Untitled.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1724611514865,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
